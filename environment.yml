@@ -1,0 +1,20 @@
+ name: weather_2019
+ channels:
+   - conda-forge
+ dependencies:
+   - python=3.7
+   - numpy
+   - matplotlib
+   - cartopy
+   - jupyter
+   - metpy
+   - siphon
+   - sphinx
+   - sphinx-gallery
+   - sphinx_rtd_theme
+   - xarray
+   - boto3
+   - botocore
+   - pint
+   - pip:
+       - sphinx-markdown-tables
