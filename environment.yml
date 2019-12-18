@@ -7,6 +7,7 @@
    - matplotlib
    - cartopy
    - jupyter
+   - jupyterlab
    - metpy
    - siphon
    - sphinx
