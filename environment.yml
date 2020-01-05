@@ -17,5 +17,6 @@
    - boto3
    - botocore
    - pint
+   - xesmf
    - pip:
        - sphinx-markdown-tables
